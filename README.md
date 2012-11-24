@@ -17,6 +17,7 @@ no warranty whatsoever, as in
     published by Sam Hocevar. See http://sam.zoy.org/wtfpl/COPYING for more
     details.
 
-The above clause for each and every single file under this project. Apart from
-that, do whatever you want to with the code.
+The above clause holds for each and every single file under this project (so
+I am not repeating it in files specifically). Given that "no warranty" clause,
+do whatever you want to with the code.
 
