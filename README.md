@@ -11,7 +11,7 @@ The reasoner is written in Prolog, in particular BProlog. The code has been
 tested with _B-Prolog Version 7.8, All rights reserved, (C) Afany Software
 1994-2012_, namely the version for Mac Os X (`Darwin Kernel Version 11.4.0: Mon
 Apr  9 19:32:15 PDT 2012; root:xnu-1699.26.8~1/RELEASE_X86_64`). If you have
-issues with newer/older version of BProlog, please drop me a line.
+issues with newer/older versions of BProlog, please drop me a line.
 
 ## Installation and Runnng the Code
 
